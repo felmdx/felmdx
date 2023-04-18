@@ -1,6 +1,6 @@
-## Oi! Eu sou Felipe Holanda! 💬
+## Oi! Eu sou Felipe Holanda! 🚀
 
-### Sobre mim
+### Sobre mim 💬
 
 Estudante de Sistemas de Informação da EACH - USP buscando aprender programação e adquirir experiências.
 Minhas principais linguagens são Python, C e SQL e estou aprendendo Java. ✨
