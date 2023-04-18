@@ -1,10 +1,14 @@
 ## Oi! Eu sou Felipe Holanda! 💬
 
+### Sobre mim
+
+Estudante de Sistemas de Informação da EACH - USP buscando aprender programação e adquirir experiências.
+Minhas principais linguagens são Python, C e SQL e estou aprendendo Java. ✨
 
 <div>
   <a href="https://github.com/felmdx">
-    <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=felmdx&count_private=true&show_icons=true&theme=tokyonight"/>
-    <img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felmdx&layout=compact&theme=tokyonight&hide=starlark,html" />
+    <img height ="160" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=felmdx&count_private=true&show_icons=true&theme=tokyonight"/>
+    <img height ="160" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felmdx&layout=compact&theme=tokyonight&hide=starlark,html" />
   </a>
 </div>
 
