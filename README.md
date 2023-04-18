@@ -1,7 +1,5 @@
 ## Oi! Eu sou Felipe Holanda! 💬
 
-Estudante de Sistemas de Informação da EACH - USP buscando aprender programação e adquirir experiências.
-Minhas principais linguagens são Python, C e SQL e estou aprendendo Java. ✨
 
 <div>
   <a href="https://github.com/felmdx">
