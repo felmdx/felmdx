@@ -21,9 +21,8 @@ Minhas principais linguagens são Python, C e SQL e estou aprendendo C#.
 <a href="https://github.com/felmdx/Target_Process">
   <img  alt="Processo seletivo da Target" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=felmdx&repo=Target_Process&theme=tokyonight" />
 </a>
-<a href="https://github.com/felmdx/ep_coo">
-  <img  alt="Exercício Programa de COO" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=felmdx&repo=ep_coo&theme=tokyonight" />
-</a>
+</div>
+<div>
 <a href="https://github.com/felmdx/ep_coo](https://github.com/felmdx/ivoryit-testeestagio">
   <img  alt="Exercício Programa de COO" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=felmdx&repo=ivoryit-testeestagio&theme=tokyonight" />
 </a>
